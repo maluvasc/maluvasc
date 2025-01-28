@@ -1,7 +1,5 @@
 ### Hi there, welcome to my GitHub profile page! I'm currently a computer science student looking to learn new things. ✨
 
-![luffygif](https://user-images.githubusercontent.com/96549606/178628325-3bdafc40-ff75-40aa-b96d-62e47d65baa4.gif)
-
 <!--
 **maluvasc/maluvasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
